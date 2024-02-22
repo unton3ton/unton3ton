@@ -6,5 +6,5 @@
 
 ![Thony's GitHub stats](https://github-readme-stats.vercel.app/api?username=unton3ton&show_icons=true&theme=great-gatsby)
 
-
+### Browsers: ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
