@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/unton3ton/unton3ton/main/db07b8452cbe00766c4e1.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unton3ton&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unton3ton&layout=compact&theme=dracula&hide=Jupyter+Notebook")
 
 ![Thony's GitHub stats](https://github-readme-stats.vercel.app/api?username=unton3ton&show_icons=true&theme=great-gatsby)
 
