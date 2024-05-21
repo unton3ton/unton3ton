@@ -1,12 +1,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unton3ton&theme=nord_dark)
 
-[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,c,go,latex,md,pytorch&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,c,go,latex,md,pytorch,opencv,tensorflow,octave,regex,sqlite&perline=13)](https://skillicons.dev)
 
 ![](https://raw.githubusercontent.com/unton3ton/unton3ton/main/db07b8452cbe00766c4e1.gif)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unton3ton&layout=compact&theme=dracula)
+
 ![Thony's GitHub stats](https://github-readme-stats.vercel.app/api?username=unton3ton&show_icons=true&theme=great-gatsby)
 
-### Skills: 
+<!-- ### Skills: 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -35,7 +37,7 @@
 ### Music: ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)
 
 
-### Store: ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)  
+### Store: ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)  -->
 
 
 ![](https://raw.githubusercontent.com/unton3ton/unton3ton/main/meme.jpg)
