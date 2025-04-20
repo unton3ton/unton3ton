@@ -1,12 +1,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unton3ton&theme=nord_dark) 
 
-![](https://raw.githubusercontent.com/unton3ton/unton3ton/main/db07b8452cbe00766c4e1.gif) ![Thony's GitHub stats](https://github-readme-stats.vercel.app/api?username=unton3ton&show_icons=true&theme=great-gatsby)
+![](https://raw.githubusercontent.com/unton3ton/unton3ton/main/db07b8452cbe00766c4e1.gif) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unton3ton&layout=compact&theme=dracula&hide=Jupyter+Notebook") 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,linux,bash,c,go,latex,md,pytorch,opencv,tensorflow,octave,regex,sqlite&perline=13)](https://skillicons.dev) -->
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unton3ton&layout=compact&theme=dracula&hide=Jupyter+Notebook") [![My Skills](https://skillicons.dev/icons?i=py,linux,c,latex,md,pytorch,opencv,tensorflow,octave&perline=3)](https://skillicons.dev)
+![Thony's GitHub stats](https://github-readme-stats.vercel.app/api?username=unton3ton&show_icons=true&theme=great-gatsby) [![My Skills](https://skillicons.dev/icons?i=py,linux,c,latex,md,pytorch,opencv,tensorflow,octave&perline=3)](https://skillicons.dev)
 
 <!-- ### Skills: 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
