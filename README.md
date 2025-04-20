@@ -1,12 +1,10 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unton3ton&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unton3ton&theme=nord_dark) ![](https://raw.githubusercontent.com/unton3ton/unton3ton/main/db07b8452cbe00766c4e1.gif)
 
-[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,c,go,latex,md,pytorch,opencv,tensorflow,octave,regex,sqlite&perline=13)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,linux,bash,c,go,latex,md,pytorch,opencv,tensorflow,octave,regex,sqlite&perline=13)](https://skillicons.dev) -->
 
-![](https://raw.githubusercontent.com/unton3ton/unton3ton/main/db07b8452cbe00766c4e1.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unton3ton&layout=compact&theme=dracula&hide=Jupyter+Notebook")
 
-![Thony's GitHub stats](https://github-readme-stats.vercel.app/api?username=unton3ton&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unton3ton&layout=compact&theme=dracula&hide=Jupyter+Notebook") ![Thony's GitHub stats](https://github-readme-stats.vercel.app/api?username=unton3ton&show_icons=true&theme=great-gatsby)
 
 <!-- ### Skills: 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -37,7 +35,9 @@
 ### Music: ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)
 
 
-### Store: ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)  -->
+### Store: ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)  
 
 
-![](https://raw.githubusercontent.com/unton3ton/unton3ton/main/meme.jpg)
+![](https://raw.githubusercontent.com/unton3ton/unton3ton/main/meme.jpg) -->
+
+![](https://raw.githubusercontent.com/unton3ton/unton3ton/refs/heads/main/aifonin-socials-850x491.jpg)
